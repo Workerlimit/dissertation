@@ -1,1 +1,1 @@
-web: gunicorn app:dissertation
+web: gunicorn app:app
